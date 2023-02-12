@@ -61,8 +61,8 @@ For that matter the application should contain the following main pages:
 1. [Submissions page](https://www.figma.com/file/w5FhhOtk0KBRWm6O9Zt5EJ/Full-Stack-Home-Assignment?node-id=1%3A1408&t=WihbXBry3g4KJgyf-4)
     1. Lists all the existing submissions and their statuses. Clicking a submission will navigate the user to that update
        submission page.
-2. [Submission page](https://www.figma.com/file/w5FhhOtk0KBRWm6O9Zt5EJ/Full-Stack-Home-Assignment?node-id=1%3A6546&t=WihbXBry3g4KJgyf-4)
-    1. Allows filling the appropriate submission fields to create a new submission.
+2. [Create/ Update submission page](https://www.figma.com/file/w5FhhOtk0KBRWm6O9Zt5EJ/Full-Stack-Home-Assignment?node-id=1%3A6546&t=WihbXBry3g4KJgyf-4)
+    1. Allows filling the appropriate submission fields to create a new submission or update existsing one.
 
 Once an application file was uploaded to a submission no further changes may be performed on it.
 
