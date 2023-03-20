@@ -1,1 +1,6 @@
-flask
+django
+djangorestframework
+djangorestframework-dataclasses
+dataclasses-json
+django-rest-authtoken
+django-cors-headers
